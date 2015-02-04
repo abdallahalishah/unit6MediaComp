@@ -13,7 +13,7 @@ public class PictureTester
   {
     Picture beach = new Picture("beach.jpg");
     beach.explore();
-    beach.zeroBlue();
+    //beach.zeroBlue();
     beach.explore();
   }
   
