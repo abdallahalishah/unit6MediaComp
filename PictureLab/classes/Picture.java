@@ -560,6 +560,7 @@ public class Picture extends SimplePicture
         car.collage(4);
         //car.edgeDetection(18);
         car.explore();
+        car.write("FinalCollage.jpg");
     }
 
 } // this } is the end of class Picture, put all new methods before this
